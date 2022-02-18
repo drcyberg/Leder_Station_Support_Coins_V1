@@ -6,7 +6,7 @@
 
 This is a Support Coin for the Leder Station. You Help and Contribute Campaign with your Support Successful if Buy it. Thank You!
 
-![](/img/1.jpg)
+![](https://github.com/drcyberg/Leder_Station_Support_Coins_V1/blob/main/img/1.jpg)
 ![](/img/2.jpg)
 ![](/img/3.jpg)
 ![](/img/4.jpg)
