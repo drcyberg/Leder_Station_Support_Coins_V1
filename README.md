@@ -4,7 +4,7 @@
 
 ## Description:
 
-This is Support Coin for the Leder Station. You Help and Contribute Campaign with your Support Successful if Buy it. Thank You!
+This is a Support Coin for the Leder Station. You Help and Contribute Campaign with your Support Successful if Buy it. Thank You!
 
 ![](/img/1.jpg)
 ![](/img/2.jpg)
