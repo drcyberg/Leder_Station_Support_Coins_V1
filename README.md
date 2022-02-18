@@ -22,6 +22,6 @@ This is a Support Coin for the Leder Station. You Help and Contribute Campaign w
 
 ---
 
-### Dimensions:
+### Dimension:
 
 ![](/img/5.jpg)
